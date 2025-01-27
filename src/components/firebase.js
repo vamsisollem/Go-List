@@ -4,7 +4,7 @@ import { getAuth, setPersistence, signInWithEmailAndPassword, browserSessionPers
 
 // Firebase config
 const firebaseConfig = {
-  apiKey: "AIzaSyCDVJphzUx4BF6T6RJLy_SdqltyreDLVi0",
+  apiKey: "",
   authDomain: "to-do-6ff71.firebaseapp.com",
   projectId: "to-do-6ff71",
   storageBucket: "to-do-6ff71.firebasestorage.app",
