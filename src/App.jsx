@@ -1,5 +1,5 @@
 import React from 'react'
-import Register from './components/register'
+import Register from './components/Register'
 import Login from './components/Login'
 import Todo from './components/Todo'
 import HomePage from './components/HomePage'
